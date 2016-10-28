@@ -1,5 +1,6 @@
 <h2 id="1-personalia">1. Personalia</h2>
-<img src="https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/14572967_1242022849152393_614083732434457868_n.jpg?oh=fde1a8e1ae4eff1e3437c0ee7a51754d&oe=588CF3AC" alt="Jorgifoto" style="width:10%">
+
+<p><img src="https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/14572967_1242022849152393_614083732434457868_n.jpg?oh=fde1a8e1ae4eff1e3437c0ee7a51754d&amp;oe=588CF3AC" alt="Jorgifoto" height="150"> </p>
 
 <hr>
 
@@ -14,13 +15,13 @@ E-mailadres : jorgheij@student.arteveldehs.be <br>
 Website : / <br>
 Social Media : / <br>
 
-<h2 id="opleidingen">Opleiding(en) : </h2> / <br>
+</p><h2 id="opleidingen">Opleiding(en) : </h2> / <br>
 <h2 id="werkervaringen">Werkervaring(en) :</h2> Gent Festival, Stage <br>
 <h2 id="cursussen-en-workshops">Cursussen en Workshops : </h2>VCA en EHBO diploma <br>
 <h2 id="nevenactiviteiten">Nevenactiviteit(en) : </h2>/ <br>
 <h2 id="computerkennis">Computerkennis : </h2>Adobe After effects, premiere, photoshop, illustrator en Indesign. <br>
                             Microsoft word en excel.  <br>
-                            Zowel software als hardware algemene goede kennis.<p></p>
+                            Zowel software als hardware algemene goede kennis.<p></p><p></p>
 
 <h2 id="software">Software:</h2> Zie hierboven <br>
 <h2 id="webtechnologie">Webtechnologie :</h2> / <br>
@@ -31,4 +32,5 @@ Social Media : / <br>
                         Engels=basiskennis<br>
 
 <h2 id="overige">Overige: </h2>
-creatief bezig zijn en met elektronica.<br>
+
+<p>creatief bezig zijn en met elektronica.<br></p>
